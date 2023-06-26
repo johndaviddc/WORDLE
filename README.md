@@ -1,4 +1,4 @@
-# Wordle50 Game
+# WORDLE GAME
 This is a simple command-line game, similar to the board game Mastermind. The program will generate a random 5 to 8-letter word and the user will have a certain number of tries to guess the word.
 
 The program will first prompt the user to enter a word of the correct length (5 to 8 letters). Then, it will check the user's input against the randomly generated word and display feedback for the user. The user's input will be scored according to the number of letters that are in the correct position (green), the number of letters that are in the word but in the wrong position (yellow), and the number of letters that are not in the word (red).
